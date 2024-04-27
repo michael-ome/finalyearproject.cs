@@ -70,5 +70,10 @@ namespace finalyearproject.cs
             staffregistration ss = new staffregistration();
             ss.Show();
         }
+
+        private void Stafflogin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

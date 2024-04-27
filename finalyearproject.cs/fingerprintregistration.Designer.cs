@@ -45,6 +45,7 @@
             this.button1.TabIndex = 32;
             this.button1.Text = "Register Fingerprint";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -65,6 +66,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(170, 157);
             this.pictureBox2.TabIndex = 31;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox1
             // 

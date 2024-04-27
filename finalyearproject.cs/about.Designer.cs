@@ -56,6 +56,7 @@
             this.label1.Size = new System.Drawing.Size(357, 15);
             this.label1.TabIndex = 10;
             this.label1.Text = " This is a Biometric system software designed by a Co-programmer";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -66,6 +67,7 @@
             this.label2.Size = new System.Drawing.Size(311, 15);
             this.label2.TabIndex = 11;
             this.label2.Text = "Akintola Felix and Falana Gbolabo in partership with his ";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 

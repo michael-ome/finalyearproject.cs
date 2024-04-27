@@ -183,6 +183,7 @@
             this.KeyPreview = true;
             this.Name = "Stafflogin";
             this.Text = "Stafflogin";
+            this.Load += new System.EventHandler(this.Stafflogin_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

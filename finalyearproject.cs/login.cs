@@ -21,5 +21,15 @@ namespace finalyearproject.cs
         {
             
         }
+
+        private void login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

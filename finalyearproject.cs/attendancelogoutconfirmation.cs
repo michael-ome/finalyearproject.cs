@@ -48,5 +48,10 @@ namespace finalyearproject.cs
             }
             
         }
+
+        private void attendancelogoutconfirmation_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

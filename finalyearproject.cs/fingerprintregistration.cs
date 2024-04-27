@@ -23,5 +23,15 @@ namespace finalyearproject.cs
             attendancepage ss = new attendancepage();
             ss.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
